@@ -1,0 +1,61 @@
+.select1 {
+    width : 95px;
+    margin-left : 65%;
+    margin-top : 20px;
+    position: relative;
+
+    
+}
+.select2 {
+    width : 95px;
+    margin-left : 110%;
+    margin-top : -37px;
+    position: relative;
+
+    
+}
+.text1{
+    position: absolute;
+    margin-left : 47%
+}
+
+.text2{
+    margin-left : 44%;
+   font-size: small;
+   color : rgba(0, 0, 0, 0.719);
+   margin-top : 10px;
+   position: relative;
+}
+
+.logo{
+    width : 70px;
+    height : 50px;
+    margin-right : 80%;
+    margin-top: -20px;
+}
+
+#cart {
+margin-left :-42%;
+position: absolute;
+}
+#wishlist:hover,
+#cart:hover {
+    transform: scale(1.1);
+}
+
+  
+  
+
+#wishlist {
+margin-left :-30%;
+margin-top : 1px;
+position: absolute;
+}
+
+
+
+.text3 {
+    margin-left : 60%;
+    margin-top: -30px;;
+}
+

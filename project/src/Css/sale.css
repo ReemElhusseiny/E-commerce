@@ -1,0 +1,17 @@
+.smallbox {
+  width : 100%;
+  height : 50px;
+ background-color :#df9a9cc7;
+ display : flex;
+ gap: 550px;
+ text-align: center;
+
+}
+
+
+
+.sale {
+  transition: transform 1s ;
+
+}
+

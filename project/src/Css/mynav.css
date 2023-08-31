@@ -1,0 +1,58 @@
+/* .container {
+    display : flex;
+    color : red;
+    background-color: aqua;
+}; */
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+.box1 {
+    margin-right: 75%;
+    color : black;
+}
+.box2 {
+    margin-right: 30%;;
+    margin-Top: -26.5%;
+    color : black;
+}
+.box3 {
+    margin-left: 10%;
+    margin-Top: -21%;
+    color : black;
+}
+.box4 {
+    margin-left: 50%;
+    margin-Top: -26.1%;
+    color : black;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav1{
+    color : white;
+}
+
+.nav2{
+    color : red;
+    position: relative;
+}
+.nav2::after{
+  content : "sale";
+  background-color: red;
+  color: white;
+  height : 20px; 
+  width : 35px;
+  position: absolute; 
+  margin-top: -15px;
+  font-size: 15px;
+}
+
+.nav2:hover{
+    color : white
+}
+
